@@ -1,6 +1,6 @@
 # Power-BI-Hospitality
 
-LINK TO LIVE DASHBOARD : [Here]([url](https://app.powerbi.com/view?r=eyJrIjoiMmQ5NTQ3NzEtOGFhNC00ZjA5LWEwNDYtODFlMzg4NDVhNjk1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+LINK TO LIVE DASHBOARD : [Here](https://app.powerbi.com/view?r=eyJrIjoiMmQ5NTQ3NzEtOGFhNC00ZjA5LWEwNDYtODFlMzg4NDVhNjk1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 Greetings and welcome to the AtliQ Grands Revenue Insights project repository! Within this initiative, I've harnessed the power of Power BI for data analytics, equipping AtliQ Grands with the capability to make informed choices based on data, outperform rivals in the market, and foster growth in key areas such as market share and revenue.
 
