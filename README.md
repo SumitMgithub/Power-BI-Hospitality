@@ -1,2 +1,3 @@
 # Power-BI-Hospitality
-This project is about AtliQ Grands, a company known for its luxury and business hotels. It has been losing market share and revenue due to competition and poor management decisions.  To bounce back, the managing director has decided to use 'Business and Data Intelligence. 
+
+Greetings and welcome to the AtliQ Grands Revenue Insights project repository! Within this initiative, I've harnessed the power of Power BI for data analytics, equipping AtliQ Grands with the capability to make informed choices based on data, outperform rivals in the market, and foster growth in key areas such as market share and revenue.
