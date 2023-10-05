@@ -6,7 +6,7 @@ Greetings and welcome to the AtliQ Grands Revenue Insights project repository! W
 
 **PROBLEM STATEMENT**
 
-AtliQ Grands operates a chain of five-star hotels located throughout India and has a 20-year history in the hospitality industry. However, they are currently experiencing a decline in both market share and revenue within the luxury and business hotel sector due to competition from rivals and ineffective management decisions. To address this situation, the managing director of AtliQ Grands is pursuing a strategic plan to incorporate "Business and Data Intelligence" into their operations with the goal of regaining market share and increasing revenue.\
+AtliQ Grands operates a chain of five-star hotels located throughout India and has a 20-year history in the hospitality industry. However, they are currently experiencing a decline in both market share and revenue within the luxury and business hotel sector due to competition from rivals and ineffective management decisions. To address this situation, the managing director of AtliQ Grands is pursuing a strategic plan to incorporate "Business and Data Intelligence" into their operations with the goal of regaining market share and increasing revenue.
 
 **TASKS PERFORMED**
 
